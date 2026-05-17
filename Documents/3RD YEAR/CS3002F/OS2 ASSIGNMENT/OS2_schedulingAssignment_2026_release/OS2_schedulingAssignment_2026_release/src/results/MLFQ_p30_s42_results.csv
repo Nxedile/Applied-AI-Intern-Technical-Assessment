@@ -1,0 +1,269 @@
+0,White Wine,6,6,33
+0,Cider,2,2,28
+1,Cider,15,15,42
+0,B52,2,2,202
+2,Bloody Mary,119,119,189
+1,Tequila shot,252,252,273
+0,White Wine,100,100,126
+1,Martini,35,35,96
+2,Red Wine,3,3,28
+0,Martini,3,3,64
+1,Beer,45,45,72
+2,Beer,2,2,28
+0,Gin and Tonic,2,2,43
+1,Mojito,25,25,100
+2,Margarita,60,60,137
+1,Beer,2,2,28
+3,Gin and Tonic,1,1,42
+1,Tequila shot,44,44,65
+1,Pina Colada,4,4,105
+3,B52,33,33,235
+3,White Wine,1,1,26
+3,Pina Colada,2,2,103
+4,Margarita,1,1,76
+3,Cider,1,1,27
+4,Martini,1,1,62
+3,Gin and Tonic,3,3,45
+3,Bloody Mary,1,1,72
+5,Pina Colada,1,1,101
+6,Draft Beer,1,1,52
+5,Gin and Tonic,12,12,53
+6,Bloody Mary,1,1,71
+7,Gin and Tonic,55,55,96
+6,White Wine,2,2,28
+7,White Wine,27,27,53
+8,Beer,2,2,28
+6,Beer,0,0,27
+7,Mojito,2,2,77
+8,Pina Colada,32,32,134
+6,Pina Colada,99,99,200
+9,Cosmopolitan,1,1,67
+9,B52,1,1,212
+9,Bloody Mary,2,2,80
+0,Beer,6,6,31
+0,White Wine,2,2,28
+1,Margarita,1,1,76
+0,B52,1,1,202
+1,Tequila shot,145,145,166
+1,Beer,3,3,30
+1,Cosmopolitan,2,2,67
+1,Draft Beer,2,2,53
+2,White Wine,54,54,80
+3,Pina Colada,23,23,124
+4,B52,55,55,256
+5,White Wine,141,141,168
+2,Beer,207,207,233
+3,Draft Beer,163,163,214
+4,Cosmopolitan,122,122,187
+5,White Wine,20,20,48
+1,Gin and Tonic,488,488,529
+6,Gin and Tonic,8,8,50
+3,White Wine,109,109,134
+4,Cosmopolitan,121,121,186
+6,Gin and Tonic,1,1,42
+5,Beer,106,106,132
+1,Mojito,132,132,208
+3,White Wine,92,92,117
+6,Martini,43,43,105
+5,Martini,88,88,149
+1,Pina Colada,64,64,164
+7,Red Wine,26,26,52
+3,Draft Beer,133,133,183
+6,Vodka shot,160,160,180
+5,Vodka shot,121,121,142
+5,Beer,3,3,29
+3,Tequila shot,1,1,23
+3,Cider,4,4,31
+5,Mojito,2,2,78
+8,Tequila shot,2,2,24
+9,Cosmopolitan,2,2,67
+8,Pina Colada,75,75,185
+9,White Wine,60,60,86
+8,Vodka shot,2,2,23
+8,Pina Colada,2,2,109
+0,Red Wine,6,6,32
+1,Vodka shot,3,3,24
+1,Margarita,3,3,79
+2,Draft Beer,2,2,53
+1,Beer,43,43,69
+2,Bloody Mary,1,1,72
+2,Martini,2,2,62
+3,Tequila shot,1,1,22
+3,Gin and Tonic,3,3,43
+3,Cosmopolitan,1,1,66
+3,Tequila shot,1,1,22
+3,Margarita,4,4,81
+3,Draft Beer,2,2,53
+3,Tequila shot,1,1,23
+4,Cider,1,1,28
+5,Red Wine,1,1,27
+4,White Wine,2,2,27
+5,White Wine,2,2,28
+4,Draft Beer,1,1,51
+6,Cider,56,56,82
+7,Martini,44,44,105
+8,Cosmopolitan,47,47,112
+6,Beer,46,46,71
+5,Bloody Mary,127,127,199
+8,Margarita,66,66,143
+4,White Wine,271,271,296
+6,Bloody Mary,98,98,170
+5,White Wine,47,47,73
+8,Mojito,69,69,145
+4,Tequila shot,51,51,72
+4,B52,3,3,203
+9,Cosmopolitan,101,101,167
+6,Draft Beer,282,282,339
+9,Margarita,6,6,82
+5,Draft Beer,396,396,453
+8,Cider,416,416,441
+4,Draft Beer,309,309,370
+6,Beer,143,143,168
+9,Martini,110,110,183
+5,B52,105,105,317
+6,Cider,194,194,219
+9,B52,137,137,346
+9,White Wine,3,3,28
+9,Cider,1,1,27
+9,Bloody Mary,2,2,85
+0,White Wine,5,5,31
+1,Cider,59,59,85
+2,Cider,1,1,27
+0,B52,1,1,203
+3,White Wine,21,21,47
+4,Red Wine,8,8,34
+1,Tequila shot,273,273,295
+2,Bloody Mary,224,224,295
+0,Martini,169,169,231
+5,Beer,64,64,90
+3,Beer,97,97,124
+4,Gin and Tonic,96,96,137
+1,Martini,265,265,326
+5,Beer,56,56,81
+6,Tequila shot,14,14,35
+6,B52,3,3,204
+7,Margarita,29,29,105
+2,Mojito,464,464,540
+0,Margarita,516,516,592
+8,Martini,28,28,89
+9,Bloody Mary,25,25,95
+3,Gin and Tonic,686,686,726
+10,Draft Beer,20,20,71
+11,Gin and Tonic,52,52,93
+12,Bloody Mary,22,22,92
+13,White Wine,43,43,69
+8,Pina Colada,235,235,336
+10,White Wine,172,172,198
+11,Beer,149,149,175
+12,Beer,66,66,91
+13,Mojito,66,66,142
+4,Pina Colada,1185,1185,1286
+1,White Wine,1225,1225,1251
+5,Pina Colada,1236,1236,1338
+14,Bloody Mary,71,71,142
+15,Draft Beer,87,87,138
+16,Cosmopolitan,96,96,161
+17,White Wine,41,41,67
+18,Pina Colada,10,10,111
+19,Martini,14,14,75
+14,Draft Beer,194,194,245
+15,Pina Colada,245,245,346
+20,Pina Colada,45,45,145
+16,White Wine,436,436,462
+21,Cider,9,9,36
+17,Vodka shot,369,369,391
+18,White Wine,321,321,348
+19,Bloody Mary,298,298,369
+22,Vodka shot,10,10,31
+20,B52,124,124,325
+21,Beer,286,286,311
+22,B52,245,245,448
+23,Red Wine,155,155,181
+24,Bloody Mary,17,17,88
+6,Cider,2684,2684,2709
+2,Gin and Tonic,2447,2447,2488
+23,Margarita,14,14,89
+25,Red Wine,26,26,51
+26,Martini,38,38,100
+27,Bloody Mary,13,13,84
+28,White Wine,42,42,68
+29,Cider,27,27,53
+24,Pina Colada,264,264,366
+26,Tequila shot,148,148,175
+27,Red Wine,66,66,91
+29,Martini,75,75,150
+28,Beer,148,148,174
+3,Gin and Tonic,2840,2840,2885
+11,Pina Colada,2512,2512,2614
+10,Pina Colada,2607,2607,2722
+12,Cosmopolitan,2709,2709,2774
+13,B52,2691,2691,2892
+4,Martini,2782,2782,2856
+1,White Wine,2800,2800,2826
+5,Draft Beer,2753,2753,2805
+14,Red Wine,2358,2358,2385
+15,Gin and Tonic,2266,2266,2320
+17,Draft Beer,2240,2240,2296
+19,B52,2045,2045,2259
+20,Martini,2170,2170,2245
+21,Tequila shot,2129,2129,2153
+22,Cosmopolitan,2041,2041,2107
+6,Pina Colada,1881,1881,1985
+23,Margarita,1881,1881,1957
+26,Draft Beer,1653,1653,1713
+24,Cider,1624,1624,1652
+27,Cosmopolitan,1572,1572,1637
+29,Cosmopolitan,1597,1597,1663
+28,Martini,1639,1639,1701
+3,Red Wine,1646,1646,1672
+11,Mojito,1572,1572,1648
+12,Gin and Tonic,1530,1530,1576
+10,Cider,1583,1583,1609
+13,Tequila shot,1443,1443,1465
+1,B52,1219,1219,1433
+5,Cider,1424,1424,1449
+15,Cosmopolitan,1356,1356,1422
+19,Gin and Tonic,1243,1243,1298
+21,Margarita,1201,1201,1277
+20,Pina Colada,1201,1201,1314
+22,Tequila shot,1274,1274,1299
+6,Bloody Mary,1121,1121,1197
+23,Mojito,1174,1174,1250
+26,Red Wine,1161,1161,1186
+24,Martini,1162,1162,1226
+27,Vodka shot,1217,1217,1242
+29,Cosmopolitan,1175,1175,1240
+28,Margarita,1107,1107,1183
+3,Bloody Mary,1130,1130,1202
+11,Beer,1163,1163,1188
+13,Margarita,1191,1191,1266
+10,Red Wine,1199,1199,1226
+15,Mojito,924,924,1000
+19,Vodka shot,884,884,917
+20,Gin and Tonic,716,716,770
+6,Tequila shot,640,640,663
+23,Vodka shot,621,621,652
+27,Bloody Mary,638,638,722
+26,Margarita,686,686,762
+29,Cosmopolitan,694,694,761
+28,Gin and Tonic,641,641,683
+11,Cider,562,562,588
+3,Martini,578,578,650
+13,Pina Colada,611,611,722
+19,Beer,662,662,687
+10,Mojito,669,669,745
+15,Draft Beer,707,707,769
+6,Cider,758,758,785
+20,Pina Colada,712,712,821
+27,Draft Beer,627,627,683
+26,Draft Beer,673,673,737
+29,Beer,691,691,717
+28,Pina Colada,629,629,736
+11,Draft Beer,710,710,767
+3,Mojito,687,687,762
+13,Martini,644,644,708
+19,Tequila shot,699,699,729
+10,Beer,643,643,669
+20,Beer,441,441,467
+27,Pina Colada,442,442,550
+19,Martini,184,184,246

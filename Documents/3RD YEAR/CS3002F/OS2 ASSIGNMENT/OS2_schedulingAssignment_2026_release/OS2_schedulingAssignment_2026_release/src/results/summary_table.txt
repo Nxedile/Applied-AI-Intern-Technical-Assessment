@@ -1,0 +1,50 @@
+Scheduler  Patrons  Seed      AvgWait AvgResponse AvgTurnaround    MinWait    MaxWait MinTurnaround MaxTurnaround  Count
+---------------------------------------------------------------------------------------------------------
+FCFS       10       42         24.9ms      24.9ms        87.4ms        0ms      175ms          25ms         233ms     42
+FCFS       10       123        43.7ms      43.7ms       101.9ms        0ms      229ms          22ms         295ms     83
+FCFS       10       999        49.3ms      49.3ms       106.8ms        0ms      271ms          21ms         337ms    128
+
+FCFS       30       42        391.3ms     391.3ms       450.7ms        0ms     1634ms          21ms        1660ms    269
+FCFS       30       123       441.2ms     441.2ms       499.9ms        0ms     1634ms          21ms        1660ms    396
+FCFS       30       999       488.1ms     488.1ms       547.1ms        0ms     1634ms          21ms        1660ms    541
+
+FCFS       50       42        864.5ms     864.5ms       924.5ms        0ms     3050ms          21ms        3100ms    784
+FCFS       50       123      1010.5ms    1010.5ms      1070.4ms        0ms     3050ms          21ms        3100ms   1015
+FCFS       50       999      1125.4ms    1125.4ms      1185.7ms        0ms     3170ms          21ms        3267ms   1225
+
+SJF        10       42         22.8ms      22.8ms        85.2ms        0ms      230ms          21ms         300ms     42
+SJF        10       123        40.4ms      40.4ms        98.8ms        0ms      295ms          21ms         371ms     83
+SJF        10       999        43.6ms      43.6ms       101.2ms        0ms      557ms          20ms         770ms    128
+
+SJF        30       42        283.9ms     283.9ms       343.2ms        0ms     6005ms          20ms        6206ms    269
+SJF        30       123       300.4ms     300.4ms       359.2ms        0ms     6005ms          20ms        6206ms    396
+SJF        30       999       335.1ms     335.1ms       394.1ms        0ms     6005ms          20ms        6206ms    541
+
+SJF        50       42        562.8ms     562.8ms       622.8ms        0ms    10418ms          20ms       10632ms    784
+SJF        50       123       660.0ms     660.0ms       719.9ms        0ms    10418ms          20ms       10632ms   1015
+SJF        50       999       725.0ms     725.0ms       785.2ms        0ms    10418ms          20ms       10632ms   1225
+
+PRIORITY   10       42         23.1ms      23.1ms        85.3ms        0ms      241ms          21ms         311ms     42
+PRIORITY   10       123        41.0ms      41.0ms        99.2ms        0ms      445ms          21ms         486ms     83
+PRIORITY   10       999        43.3ms      43.3ms       100.8ms        0ms      517ms          21ms         593ms    128
+
+PRIORITY   30       42        294.1ms     294.1ms       353.6ms        0ms     4218ms          21ms        4294ms    269
+PRIORITY   30       123       328.8ms     328.8ms       387.8ms        0ms     4218ms          21ms        4294ms    396
+PRIORITY   30       999       379.1ms     379.1ms       438.2ms        0ms     5103ms          21ms        5129ms    541
+
+PRIORITY   50       42        651.2ms     651.2ms       711.2ms        0ms    11795ms          21ms       11815ms    784
+PRIORITY   50       123       761.4ms     761.4ms       821.3ms        0ms    11795ms          21ms       11815ms   1015
+PRIORITY   50       999       871.1ms     871.1ms       931.5ms        0ms    11795ms          21ms       11815ms   1225
+
+MLFQ       10       42         23.9ms      23.9ms        86.3ms        0ms      252ms          26ms         273ms     42
+MLFQ       10       123        45.7ms      45.7ms       103.8ms        0ms      488ms          23ms         529ms     83
+MLFQ       10       999        54.7ms      54.7ms       112.3ms        0ms      488ms          22ms         529ms    128
+
+MLFQ       30       42        448.7ms     448.7ms       508.2ms        0ms     2840ms          22ms        2892ms    269
+MLFQ       30       123       495.1ms     495.1ms       554.0ms        0ms     2840ms          22ms        2892ms    396
+MLFQ       30       999       536.2ms     536.2ms       595.2ms        0ms     2840ms          21ms        2892ms    541
+
+MLFQ       50       42        933.5ms     933.5ms       993.6ms        0ms     6287ms          21ms        6329ms    784
+MLFQ       50       123      1067.5ms    1067.5ms      1127.5ms        0ms     6287ms          21ms        6329ms   1015
+MLFQ       50       999      1162.8ms    1162.8ms      1223.1ms        0ms     6287ms          21ms        6329ms   1225
+
